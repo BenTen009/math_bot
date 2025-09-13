@@ -1,5 +1,6 @@
 aiogram==3.22.0
 supabase==2.18.1
 python-dotenv==1.0.0
-pydantic==2.12
+pydantic==2.12.0
+
 
