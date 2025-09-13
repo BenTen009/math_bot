@@ -1,4 +1,4 @@
 aiogram==3.3.0
-supabase-py==2.5.0
+supabase
 python-dotenv==1.0.0
 python-telegram-bot==22.4
