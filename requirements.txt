@@ -1,3 +1,4 @@
+pip install --upgrade pip
 aiogram==3.3.0
 supabase
 python-dotenv==1.0.0
