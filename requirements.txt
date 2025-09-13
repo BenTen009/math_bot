@@ -1,4 +1,4 @@
-aiogram==3.3.0
+aiogram==3.22.0
 supabase==2.18.1
 python-dotenv==1.0.0
-pydantic==2.5.3  # Совместимая версия с aiogram 3.3.0
+pydantic==2.12.2
